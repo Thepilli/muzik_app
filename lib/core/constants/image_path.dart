@@ -1,0 +1,30 @@
+class ImagePath {
+  static const String album_1 = 'assets/images/album_1.jpeg';
+  static const String album_2 = 'assets/images/album_2.jpeg';
+  static const String album_3 = 'assets/images/album_3.jpeg';
+  static const String album_4 = 'assets/images/album_4.jpeg';
+  static const String album_5 = 'assets/images/album_5.jpeg';
+  static const String album_6 = 'assets/images/album_6.jpeg';
+  static const String banner_1 = 'assets/images/banner_1.png';
+  static const String banner_2 = 'assets/images/banner_2.png';
+  static const String banner_3 = 'assets/images/banner_3.png';
+  static const String banner_4 = 'assets/images/banner_4.png';
+  static const String banner_5 = 'assets/images/banner_5.png';
+  static const String banner_6 = 'assets/images/banner_6.png';
+  static const String album_7 = 'assets/images/album_7.jpeg';
+  static const String album_8 = 'assets/images/album_8.jpeg';
+  static const String album_9 = 'assets/images/album_9.jpeg';
+  static const String album_10 = 'assets/images/album_10.jpeg';
+  static const String album_11 = 'assets/images/album_11.jpeg';
+  static const String album_12 = 'assets/images/album_12.jpeg';
+  static const String album_13 = 'assets/images/album_13.jpeg';
+  static const String album_14 = 'assets/images/album_14.jpeg';
+  static const String album_15 = 'assets/images/album_15.jpeg';
+  static const String album_16 = 'assets/images/album_16.jpeg';
+  static const String album_17 = 'assets/images/album_17.jpeg';
+  static const String album_18 = 'assets/images/album_18.jpeg';
+  static const String album_19 = 'assets/images/album_19.jpeg';
+  static const String album_20 = 'assets/images/album_20.jpeg';
+  static const String nowPlayingAvatar = 'assets/images/now_playing_avatar.jpeg';
+  static const String nowPlaying = 'assets/images/now_playing.png';
+}

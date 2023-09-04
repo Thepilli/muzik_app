@@ -1,0 +1,86 @@
+import 'package:muzik_app_codeforany/models/song.dart';
+
+class SongResponse {
+  static final List<Song> response = [
+    Song(
+      rating: 4,
+      songName: "Shape of You",
+      albumName: "÷ (Divide)",
+      albumCover: "assets/images/album_1.jpeg",
+      artists: "Ed Sheeran",
+      bannerPath: "assets/images/banner_1.png",
+    ),
+    Song(
+      rating: 5,
+      songName: "Bohemian Rhapsody",
+      albumName: "A Night at the Opera",
+      albumCover: "assets/images/album_2.jpeg",
+      artists: "Queen",
+      bannerPath: "assets/images/banner_2.png",
+    ),
+    Song(
+      rating: 4,
+      songName: "Billie Jean",
+      albumName: "Thriller",
+      albumCover: "assets/images/album_3.jpeg",
+      artists: "Michael Jackson",
+      bannerPath: "assets/images/banner_3.png",
+    ),
+    Song(
+      rating: 3,
+      songName: "Imagine",
+      albumName: "Imagine",
+      albumCover: "assets/images/album_4.jpeg",
+      artists: "John Lennon",
+      bannerPath: "assets/images/banner_4.png",
+    ),
+    Song(
+      rating: 4,
+      songName: "Rolling in the Deep",
+      albumName: "21",
+      albumCover: "assets/images/album_5.jpeg",
+      artists: "Adele",
+      bannerPath: "assets/images/banner_5.png",
+    ),
+    Song(
+      rating: 4,
+      songName: "Hotel California",
+      albumName: "Hotel California",
+      albumCover: "assets/images/album_6.jpeg",
+      artists: "Eagles",
+      bannerPath: "assets/images/banner_6.png",
+    ),
+    Song(
+      rating: 5,
+      songName: "Smells Like Teen Spirit",
+      albumName: "Nevermind",
+      albumCover: "assets/images/album_7.jpeg",
+      artists: "Nirvana",
+      bannerPath: "assets/images/banner_1.png",
+    ),
+    Song(
+      rating: 4,
+      songName: "Stairway to Heaven",
+      albumName: "Led Zeppelin IV",
+      albumCover: "assets/images/album_8.jpeg",
+      artists: "Led Zeppelin",
+      bannerPath: "assets/images/banner_5.png",
+    ),
+    Song(
+      rating: 3,
+      songName: "Uptown Funk",
+      albumName: "Uptown Special",
+      albumCover: "assets/images/album_9.jpeg",
+      artists: "Mark Ronson ft. Bruno Mars",
+      bannerPath: "assets/images/banner_3.png",
+    ),
+    Song(
+      rating: 5,
+      songName: "Thriller",
+      albumName: "Thriller",
+      albumCover: "assets/images/album_10.jpeg",
+      artists: "Michael Jackson",
+      bannerPath: "assets/images/banner_2.png",
+    ),
+  ];
+}
