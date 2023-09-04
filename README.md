@@ -34,4 +34,4 @@ I encourage users to provide feedback, report issues, or share suggestions for i
 The Muzik Application is released under the MIT License. Refer to the LICENSE file in the repository for more information.
 
 ## Demo
-![PrV5Ohr89H8O_1024_500](https://github.com/Thepilli/muzik_app/assets/104307512/90adb7b8-d52f-4b32-bcde-40b9f92c30b6)
+![KDLQ2AMRPXhW_2048_1000](https://github.com/Thepilli/muzik_app/assets/104307512/ec34176c-85b3-46d8-abbc-d018287d7963)
